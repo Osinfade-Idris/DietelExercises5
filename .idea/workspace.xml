@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9f734751-28e3-41e7-b895-de00558d0152" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AutoPolicy/AutoPolicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AutoPolicy/AutoPolicy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AutoPolicy/AutoPolicyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AutoPolicy/AutoPolicyTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +33,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2ADd3F0oynRt0fP9iIwFwMYi1hN" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,10 +44,42 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.LetterGrades">
-    <configuration name="ForCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForCounter" />
+  <component name="RunManager" selected="Application.ContinueTest">
+    <configuration name="AutoPolicyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AutoPolicy.AutoPolicyTest" />
       <module name="DietelChap5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AutoPolicy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BreakTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BreakAndContinue.BreakTest" />
+      <module name="DietelChap5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BreakAndContinue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BreakAndContinue.ContinueTest" />
+      <module name="DietelChap5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BreakAndContinue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -62,27 +98,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sum" />
-      <module name="DietelChap5" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WhileCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhileCounter" />
-      <module name="DietelChap5" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ContinueTest" />
+        <item itemvalue="Application.BreakTest" />
+        <item itemvalue="Application.AutoPolicyTest" />
         <item itemvalue="Application.LetterGrades" />
         <item itemvalue="Application.Interest" />
-        <item itemvalue="Application.Sum" />
-        <item itemvalue="Application.ForCounter" />
-        <item itemvalue="Application.WhileCounter" />
       </list>
     </recent_temporary>
   </component>
