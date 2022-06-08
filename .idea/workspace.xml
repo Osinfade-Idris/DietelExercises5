@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9f734751-28e3-41e7-b895-de00558d0152" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AutoPolicy/AutoPolicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AutoPolicy/AutoPolicy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AutoPolicy/AutoPolicyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AutoPolicy/AutoPolicyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DietelChap5/BreakAndContinue/ContinueTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DietelChap5/BreakAndContinue/ContinueTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,55 +43,37 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ContinueTest">
-    <configuration name="AutoPolicyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AutoPolicy.AutoPolicyTest" />
-      <module name="DietelChap5" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AutoPolicy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BreakTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BreakAndContinue.BreakTest" />
-      <module name="DietelChap5" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BreakAndContinue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ContinueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BreakAndContinue.ContinueTest" />
-      <module name="DietelChap5" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BreakAndContinue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Interest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Interest" />
+  <component name="RunManager" selected="Application.BarChartPrinting">
+    <configuration name="BarChartPrinting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BarChartPrinting" />
       <module name="DietelChap5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LetterGrades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LetterGrades" />
+    <configuration name="Factorials" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Factorials" />
+      <module name="DietelChap5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ModifiedCompoundInterest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ModifiedCompoundInterest" />
+      <module name="DietelChap5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductOddInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProductOddInteger" />
+      <module name="DietelChap5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrianglePrintingProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TrianglePrintingProgram" />
       <module name="DietelChap5" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ContinueTest" />
-        <item itemvalue="Application.BreakTest" />
-        <item itemvalue="Application.AutoPolicyTest" />
-        <item itemvalue="Application.LetterGrades" />
-        <item itemvalue="Application.Interest" />
+        <item itemvalue="Application.BarChartPrinting" />
+        <item itemvalue="Application.TrianglePrintingProgram" />
+        <item itemvalue="Application.ModifiedCompoundInterest" />
+        <item itemvalue="Application.Factorials" />
+        <item itemvalue="Application.ProductOddInteger" />
       </list>
     </recent_temporary>
   </component>
